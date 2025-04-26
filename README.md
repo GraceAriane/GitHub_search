@@ -24,6 +24,7 @@ This project was built while following a course on Udemy as part of a training t
 
 ## 🚀 Getting Started
 
+- Live Site - [GitHubSearch Profile](https://git-hub-search-ruddy.vercel.app/)
 
 ## 👨‍💻 Author
 
